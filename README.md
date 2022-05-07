@@ -1,6 +1,16 @@
 # Auth0 Gatsby Starter
 This is the sample application for the Auth0 tutorial on [Securing Gatsby with Auth0](https://auth0.com/blog/securing-gatsby-with-auth0/). It is based on the [official Gatsby hello-world starter](https://github.com/gatsbyjs/gatsby-starter-hello-world).
 
+> Note: this demo will not work in Private(Incognito) browser mode 
+
+The variables in cookies are different, and this will not
+- "auth0-js": "^9.10.1" + "gatsby": "^2.3.16": io (H5KEwP0fPDxlxtHqAAAF); single variable in cookie
+- "auth0-js": "^9.19.0" + "gatsby": "^4.11.0": auth0 (s%3Av0%3A8f4f8250-cdb5-11ec-915f-7549e54125f4.u94j%2B73ISMoct00WYAby%2Fc20HDWTmfaR7rU2RGZInFo); some variables ... auth0 is the key.
+
+
+
+
+## Get Started
 To get started, clone this repository:
 
 ```bash
